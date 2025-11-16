@@ -1,0 +1,15 @@
+# Arquivo de senhas (será injetado no runtime)
+.env
+
+# Ambiente virtual local
+venv/
+.venv/
+
+# Arquivos do Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Arquivos do IDE
+.vscode/
+.idea/
